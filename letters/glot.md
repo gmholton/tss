@@ -13,31 +13,31 @@ Note  that when a word begins with a glottal stop the apostrophe is not written.
 It is important to distinguish between the presence and absence of glottal stop  at the end of words. Click below to hear Mrs.&nbsp;Irene Arnold and Mrs.&nbsp;Laura Sanford pronouncing words illustrating the contrast in words ending with and without glottal stop.			
 
 <center>
-<audio controls src="/assets/audio/vow_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/vow_glot_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/vow_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/vow_glot_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/h_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/h_glot_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/h_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/h_glot_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/n_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/n_glot_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/n_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/n_glot_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/l_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/l_glot_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/l_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/l_glot_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/aff_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/aff_glot_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/aff_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/aff_glot_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/stop_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/stop_glot_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/stop_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/stop_glot_comp.gif" border="0">
 </center>

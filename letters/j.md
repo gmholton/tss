@@ -11,6 +11,6 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>ch
 
 
 <center>
-<audio controls src="/assets/audio/pal_aff_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif/pal_aff.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/pal_aff_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/pal_aff.gif" border="0">
 </center>

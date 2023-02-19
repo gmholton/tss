@@ -14,7 +14,7 @@ Click on a Tanacross word to see and hear {{ page.speaker }} pronouncing words w
 {% if vid.size > 0 %}
 <table>
 {% for row in vid %}
-<tr><td align="center"><video src="{{ row.media | prepend: site.vidpath | append: ".mp4" }}" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ row.text | prepend: site.gifpath | append: ".gif" }}"/><br/><span class="gloss">{{ row.gloss}}</span></td></tr>
+<tr><td align="center"><video src="{{ row.media | prepend: site.vidpath | append: ".mp4" }}" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}{{ row.text | prepend: site.gifpath | append: ".gif" }}"/><br/><span class="gloss">{{ row.gloss}}</span></td></tr>
 {% endfor %}
 </table>
 {% endif %}

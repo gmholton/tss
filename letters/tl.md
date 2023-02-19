@@ -12,8 +12,8 @@ The **tl** sound is similar to other sounds in Tanacross. Below are examples tha
 Click below to hear Mrs. Irene Arnold illustrating the difference between **tl** and **tl'** at the start of syllables.
 
 <center>
-<audio controls type="audio/mpeg" src="/assets/audio/tl_tl_glot_cmp.mp3">Your browser does not support audio.</audio><br/>
-<img src="/assets/gif/tl_tl_glot_cmp.gif">
+<audio controls type="audio/mpeg" src="{{ site.baseurl }}/assets/audio/tl_tl_glot_cmp.mp3">Your browser does not support audio.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_cmp.gif">
 </center>
 
 
@@ -21,21 +21,21 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between **tl**
 
 
 <center>
-<audio controls type="audio/mpeg" src="/assets/audio/tl_dl_cmp.mp3">Your browser does not support audio.</audio><br/>
-<img src="/assets/gif/tl_dl_cmp.gif">
+<audio controls type="audio/mpeg" src="{{ site.baseurl }}/assets/audio/tl_dl_cmp.mp3">Your browser does not support audio.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/tl_dl_cmp.gif">
 </center>
 
 <center>
-<audio controls type="audio/mpeg" src="/assets/audio/tl_dl_fnl_cmp.mp3">Your browser does not support audio.</audio><br/>
-<img src="/assets/gif/tl_dl_fnl_cmp.gif">
+<audio controls type="audio/mpeg" src="{{ site.baseurl }}/assets/audio/tl_dl_fnl_cmp.mp3">Your browser does not support audio.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/tl_dl_fnl_cmp.gif">
 </center>
 
 
 Click below to hear Mrs. Laura Sanford illustrating the difference between **tl** and **ł** at the end of words.
 
 <center>
-<audio controls type="audio/mpeg" src="/assets/audio/tl_L_fnl_cmp_ls.mp3">Your browser does not support audio.</audio><br/>
-<img src="/assets/gif/tl_L_fnl_cmp_ls.gif">
+<audio controls type="audio/mpeg" src="{{ site.baseurl }}/assets/audio/tl_L_fnl_cmp_ls.mp3">Your browser does not support audio.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/tl_L_fnl_cmp_ls.gif">
 </center>
 
 
@@ -44,7 +44,7 @@ Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading 
 
 <table>
 <tr>									
-<td><video controls src="{{ site.vidpath }}tl_sent.mp4" >Your browswer does not support video.</video></td><td><img src="/assets/gif/tl_tl_glot_sent.gif" border="0"/>
+<td><video controls src="{{ site.vidpath }}tl_sent.mp4" >Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_sent.gif" border="0"/>
 </td>
 </tr>
 </table>

@@ -1,5 +1,5 @@
 title: TSS
-description: Sounds of Tanacross
+description: "Sounds of Tanacross"
 theme: just-the-docs
 
 url: http://www2.hawaii.edu/~holton/tss
@@ -25,7 +25,7 @@ callouts:
     color: yellow
     
 gifpath: /assets/gif/
-vidpath: http://www2.hawaii.edu/~holton/mp4/
+vidpath: http://www2.hawaii.edu/~holton/tss/assets/mp4/
 audiopath: /assets/audio/
 
 defaults:

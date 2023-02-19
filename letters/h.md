@@ -11,11 +11,11 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>x</
 
 
 <center>					
-<audio controls src="/assets/audio/x_h_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><img src="/assets/gif/x_h_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/x_h_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><img src="{{ site.baseurl }}/assets/gif/x_h_comp.gif" border="0">
 </center>
 
 <center>						
-<audio controls src="/assets/audio/x_h_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><img src="/assets/gif/x_h_med_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/x_h_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><img src="{{ site.baseurl }}/assets/gif/x_h_med_comp.gif" border="0">
 </center>
 
 
@@ -24,10 +24,10 @@ Click on the Tanacross sentences below to hear and see Mrs. Irene Arnold reading
 
 <table>
 <tr>
-<td><video controls src="{{ site.vidpath }}x_h_sent1.mp4">Your browswer does not support video.</video></td><td><img src="/assets/gif/x_h_sent1.gif" border="0"/></td>
+<td><video controls src="{{ site.vidpath }}x_h_sent1.mp4">Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/x_h_sent1.gif" border="0"/></td>
 </tr>
 <tr>
-<td><video controls src="{{ site.vidpath }}x_h_sent2.mp4">Your browswer does not support video.</video></td><td><img src="/assets/gif/x_h_sent2.gif" border="0"/></td>
+<td><video controls src="{{ site.vidpath }}x_h_sent2.mp4">Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/x_h_sent2.gif" border="0"/></td>
 </tr>
 </table>
 

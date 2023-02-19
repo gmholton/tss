@@ -15,9 +15,9 @@ In some words <b>d</b> at the beginning of a syllable is pronounced as in Englis
 Click below to hear Mrs. Irene Arnold illustrating the different pronunciations of <b>d</b> at the start of a syllable.
 
 <center>
-<audio controls src="/assets/audio/d_comp.mp3" type="audio/mpeg">
+<audio controls src="{{ site.baseurl }}/assets/audio/d_comp.mp3" type="audio/mpeg">
 Your browser does not support the audio element.</audio>
-<p><img src="/assets/gif/d_comp.gif" border="0"></p>
+<p><img src="{{ site.baseurl }}/assets/gif/d_comp.gif" border="0"></p>
 </center>
 
 {: .warning}
@@ -27,25 +27,25 @@ Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contras
 
 
 <center>
-<audio controls src="/assets/audio/t_glot_t_d%20comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/t_glot_t_d_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d%20comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/t_glot_t_d_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/t_glot_t_d_med_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_med_comp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/t_d_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/t_d_final_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/t_d_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/t_d_final_comp.gif" border="0">
 </center>
 
 
 Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading a sentence contrasting <b>t</b> and <b>d</b> and <b>t'</b> at the start of syllables.
 
 <center>
-<video src="{{ site.vidpath }}t-d-t-glot-sent.mp4" type="video/mp4" controls></video><br/><img src="/assets/gif/t_d_t_glot_sent.gif"></center>
+<video src="{{ site.vidpath }}t-d-t-glot-sent.mp4" type="video/mp4" controls></video><br/><img src="{{ site.baseurl }}/assets/gif/t_d_t_glot_sent.gif"></center>
 
 
 		

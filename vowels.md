@@ -14,7 +14,7 @@ Six types of vowels sounds are distinguished using five different letters. There
 
 Click on a sound below to hear it pronounced.
 
-<img src="/assets/images/vowels.gif" border="0" usemap="#Vowels" width="275" height="116">
+<img src="{{site.baseurl}}/assets/images/vowels.gif" border="0" usemap="#Vowels" width="275" height="116">
 
 
 

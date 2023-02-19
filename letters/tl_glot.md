@@ -12,8 +12,8 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between **tl**
 
 
 <center>
-<audio controls src="/assets/audio/tl_tl_glot_cmp.mp3" type="audio/mpeg">Your browser does not support audio</audio><br/>
-<img src="/assets/gif/tl_tl_glot_cmp.gif"/>
+<audio controls src="{{ site.baseurl }}/assets/audio/tl_tl_glot_cmp.mp3" type="audio/mpeg">Your browser does not support audio</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_cmp.gif"/>
 </center>
 			
 			
@@ -23,7 +23,7 @@ Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing wo
 <table border="0" align="center" cellpadding="5" cellspacing="5">
 <tr>
 										
-<td><video src="{{ site.vidpath }}tl_sent.mp4" controls>Your browswer does not support video.</video></td><td><img src="/assets/gif/tl_tl_glot_sent.gif" border="0"/>
+<td><video src="{{ site.vidpath }}tl_sent.mp4" controls>Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_sent.gif" border="0"/>
 </td>
 <td width="64">&nbsp;</td>
 </tr>

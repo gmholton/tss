@@ -10,17 +10,17 @@ Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contras
 
 
 <center>
-<audio controls src="/assets/audio/ts_ts_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/ts_ts_glot_cmp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/ts_ts_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/ts_ts_glot_cmp.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/ts_ts_glot2_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="/assets/gif/ts_ts_glot2_cmp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/ts_ts_glot2_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<img src="{{ site.baseurl }}/assets/gif/ts_ts_glot2_cmp.gif" border="0">
 </center>
 
 <p>
-<img src="/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../alveolar_comp/sib1_sent/sib1_sent.html"> sentences contrasting <b>ts'</b> and similar sounds</a><br />
+<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../alveolar_comp/sib1_sent/sib1_sent.html"> sentences contrasting <b>ts'</b> and similar sounds</a><br />
 </p>
 <br />
 						

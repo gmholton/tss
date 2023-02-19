@@ -11,8 +11,8 @@ description: Plain letter <b>l</b> is pronounced as the <b>l</b> in English '<b>
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>&#322;</b> and <b>l</b> at the start of words.
 
 <div align="center">
-<audio controls src="/assets/audio/bar_l_l_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<p align="center"><img src="/assets/gif/bar_l_l_comp.gif" border="0"/></p>
+<audio controls src="{{ site.baseurl }}/assets/audio/bar_l_l_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<p align="center"><img src="{{ site.baseurl }}/assets/gif/bar_l_l_comp.gif" border="0"/></p>
 </div>
 
 
@@ -20,10 +20,10 @@ Letter <b>l</b> sometimes occurs at the start of word, forming a syllable all by
 
 <table>
 <tr>
-<td align="center"><video src="{{ site.vidpath }}ls_aaz-2.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ls_aaz.gif"/><br/><span class="gloss">money</span></td>
+<td align="center"><video src="{{ site.vidpath }}ls_aaz-2.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/ls_aaz.gif"/><br/><span class="gloss">money</span></td>
 </tr>
 <tr>
-<td align="center"><video src="{{ site.vidpath }}ltsqiis.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ltsqiis.gif"/><br/><span class="gloss">birch fungus ashes</span></td>
+<td align="center"><video src="{{ site.vidpath }}ltsqiis.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/ltsqiis.gif"/><br/><span class="gloss">birch fungus ashes</span></td>
 </tr>
 </table>
 				

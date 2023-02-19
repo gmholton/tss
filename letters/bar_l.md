@@ -15,32 +15,32 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>ł<
 
 
 <center>
-<audio controls src="/assets/audio/bar_l_l_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif/bar_l_l_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/bar_l_l_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/bar_l_l_comp.gif" border="0">
 </center>
 
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>ł</b> and <b><u>ł</u></b> at the start of syllables.
 
 
 <center>
-<audio controls src="/assets/audio/bar_l_l_und_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif/bar_l_l_und_cmp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/bar_l_l_und_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/bar_l_l_und_cmp.gif" border="0">
 </center>
 
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>th</b> and <b>ł</b> at the end of words.
 
 
 <center>
-<audio controls src="/assets/audio/th_L_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif//th_L_final_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/th_L_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif//th_L_final_comp.gif" border="0">
 </center>
 
 Click below to hear Mrs. Laura Sanford illustrating the difference between <b>tl</b> and <b>ł</b> at the end of words.
 
 
 <center>
-<audio controls src="/assets/audio/tl_L_fnl_cmp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif/tl_L_fnl_cmp_ls.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/tl_L_fnl_cmp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/tl_L_fnl_cmp_ls.gif" border="0">
 </center>
 <br>
 
@@ -48,13 +48,13 @@ Letter <b>ł</b> sometimes occurs at the beginning of a word, forming a syllable
 
 <table>
 <tr>
-<td align="center"><video src="{{ site.vidpath }}Ldadi1ntaan.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldadi1ntaan.gif"/><br/><span class="gloss">door</span></td>
+<td align="center"><video src="{{ site.vidpath }}Ldadi1ntaan.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/Ldadi1ntaan.gif"/><br/><span class="gloss">door</span></td>
 </tr>
 <tr>
-<td align="center"><video src="{{ site.vidpath }}Ldi1ikeey.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldi1ikeey.gif"/><br/><span class="gloss">two</span></td>
+<td align="center"><video src="{{ site.vidpath }}Ldi1ikeey.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/Ldi1ikeey.gif"/><br/><span class="gloss">two</span></td>
 </tr>
 <tr>
-<td align="center"><video src="{{ site.vidpath }}Ldaa.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldaa.gif"/><br/><span class="gloss">peninsula</span></td>
+<td align="center"><video src="{{ site.vidpath }}Ldaa.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/Ldaa.gif"/><br/><span class="gloss">peninsula</span></td>
 </tr>
 </table>
 

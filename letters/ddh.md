@@ -20,12 +20,12 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>tth
 
 
 <center>
-<audio controls src="/assets/audio/tth_ddh_fnl_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif//tth_ddh_fnl_cmp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/tth_ddh_fnl_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif//tth_ddh_fnl_cmp.gif" border="0">
 </center>
 
 <center>
-<p><img src="/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b>ddh</b> and similar sounds</a><br /></p>
+<p><img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b>ddh</b> and similar sounds</a><br /></p>
 </center>
 
 			

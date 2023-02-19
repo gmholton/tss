@@ -10,19 +10,19 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>k</
 
 
 <center>
-<audio controls src="/assets/audio/k_k_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif/k_k_glot_comp1.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/k_k_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/k_k_glot_comp1.gif" border="0">
 </center>
 
 <center>
-<audio controls src="/assets/audio/k_k_glot_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif/k_k_glot_comp2.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/k_k_glot_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif/k_k_glot_comp2.gif" border="0">
 </center>
 
 
 
 <p>
-<img src="/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../velar_comp/velar_sent/velar_sent.html"> sentences contrasting <b>k'</b> and similar sounds</a><br />
+<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../velar_comp/velar_sent/velar_sent.html"> sentences contrasting <b>k'</b> and similar sounds</a><br />
 </p>
 <br />
 						

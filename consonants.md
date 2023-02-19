@@ -26,7 +26,7 @@ The consonants are organized below according to the place of production in the m
 
 Click on a letter below to learn more about that sound.
 		  
-<img src="/assets/images/c_chart.gif" border="0" usemap="#Consonants"  width="555"/>
+<img src="{{site.baseurl}}/assets/images/c_chart.gif" border="0" usemap="#Consonants"  width="555"/>
 
 
 

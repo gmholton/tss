@@ -10,8 +10,8 @@ description: Letter <b><u>&#322;</u></b>, referred to as <span class="def">barre
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>&#322;</b> and <b><u>&#322;</u></b> at the start of syllables.
 
 <center>
-<audio controls src="/assets/audio/bar_l_l_und_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio controls src="{{ site.baseurl }}/assets/audio/bar_l_l_und_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 <br/>
-<img src="/assets/gif/bar_l_l_und_cmp.gif" border="0">
+<img src="{{ site.baseurl }}/assets/gif/bar_l_l_und_cmp.gif" border="0">
 </center>
 						

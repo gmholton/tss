@@ -9,6 +9,6 @@
 <audio controls src="../velar_comp/x_h_sent2.mov" type="audio/mpeg">Your browser does not support the audio element.</audio>
 </center>
 <br />
-<center><img src="/assets/gif/x_h_sent2.gif"></center>
+<center><img src="{{ site.baseurl }}/assets/gif/x_h_sent2.gif"></center>
 </body>
 </html>

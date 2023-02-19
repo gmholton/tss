@@ -10,11 +10,11 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>th
 
 
 <center>
-<audio controls src="/assets/audio/th_th_under_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="/assets/gif//th_th_under_comp.gif" border="0">
+<audio controls src="{{ site.baseurl }}/assets/audio/th_th_under_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
+<img src="{{ site.baseurl }}/assets/gif//th_th_under_comp.gif" border="0">
 </center>
 
 <p>
-<img src="/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b><u>th</u></b> and similar sounds</a><br />
+<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b><u>th</u></b> and similar sounds</a><br />
 </p>
 
