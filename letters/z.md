@@ -1,9 +1,7 @@
 ---
 title:  Z
-layout: letter
 letter: z
 display: Z
-nav_exclude: true
 description: Letter <b>z</b> is pronounced as in English <b>'z</b>oo' or <b>'z</b>ip'. This sound occurs only at the end of a syllable.
 ---
 

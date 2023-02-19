@@ -1,9 +1,7 @@
 ---
 title:  YH
-layout: letter
 letter: yh
 display: YH
-nav_exclude: true
 description: Letter <b>yh</b> is pronounced like Tanacross <b>y</b> except <b>yh</b> is <span class="def">voiceless</span> (made without the vocal cords vibrating). This sound occurs only at the end of a syllable.
 ---
 

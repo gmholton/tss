@@ -1,9 +1,7 @@
 ---
 title:  K
-layout: letter
 letter: k
 display: K
-nav_exclude: true
 description: Letter <b>k</b> is pronounced slightly differently depending on whether it is at the start or end of a syllable. At the start of a syllable, Tanacross <b>k</b> has a raspy quality similar to letter <b>x</b>. At the end of a word, letter <b>k</b> does not have this raspy quality and is similar to English k sound in words such as 'roc<b>k'</b>.
 ---
 

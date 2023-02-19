@@ -1,9 +1,7 @@
 ---
 title:  D
-layout: letter
 letter: d
 display: D
-nav_exclude: true
 description: "Letter <b>d</b> is pronounced differently depending on whether the sound occurs at the start or end of a syllable. At the start of a syllable, <b>d</b> is pronounced as the <b>t</b> in English 's<b>t</b>op'. This is a voiceless sound (made without the vocal folds vibrating). At the end of a syllable, <b>d</b> is pronounced as  in English 'ro<b>d'</b> but often is followed by a slight 'uh' sound. This is a voiced sound (made with the vocal cords vibrating)."
 ---
 
@@ -47,5 +45,7 @@ Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contras
 Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading a sentence contrasting <b>t</b> and <b>d</b> and <b>t'</b> at the start of syllables.
 
 <center>
-<video src="/assets/mp4/t_d_t_glot_sent.mp4" type="video/mp4" controls></video><br/><img src="/assets/gif/t_d_t_glot_sent.gif"></center>
+<video src="{{ site.vidpath }}t-d-t-glot-sent.mp4" type="video/mp4" controls></video><br/><img src="/assets/gif/t_d_t_glot_sent.gif"></center>
+
+
 		

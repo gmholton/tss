@@ -1,6 +1,5 @@
 ---
 title:  a nasal
-layout: letter
 letter: a_nasal 
 display: "Ą, ĄĄ"
 parent: Vowels

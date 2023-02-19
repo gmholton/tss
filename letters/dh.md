@@ -1,9 +1,7 @@
 ---
 title:  DH
-layout: letter
 letter: dh
 display: DH
-nav_exclude: true
 description: <p>Letter <b>dh</b> is pronounced as in English 'the' or 'this' but never as in English 'thick' or 'thin'. It is  pronounced with the tip of the tongue between the teeth, permitting air to flow between the tongue and teeth. It is a voiced sound (made with the vocal cords vibrating). </p>
 ---
 

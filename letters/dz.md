@@ -1,9 +1,7 @@
 ---
 title:  DZ
-layout: letter
 letter: dz
 display: DZ
-nav_exclude: true
 description: <p>Letter <b>dz</b> is pronounced as in the final sounds in English la<b>ds</b> and pa<b>ds</b>. This is a voiced sound (made with the vocal cords vibrating) and is distinct from  z.</p>
 ---
 

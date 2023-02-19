@@ -1,9 +1,7 @@
 ---
 title:  T
-layout: letter
 letter: t
 display: T
-nav_exclude: true
 description: "Letter <b>t</b> is pronounced as in  English <b>'t</b>op'<b>. </b>This is a voiceless sound."
 ---
 
@@ -39,7 +37,7 @@ Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading 
 			
 <table>
 <tr>
-<td align="center"><video src="/assets/mp4/t-d-t-glot-sent.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/t_d_t_glot_sent.gif"/></td>
+<td align="center"><video src="{{ site.vidpath }}t-d-t-glot-sent.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/t_d_t_glot_sent.gif"/></td>
 </tr>
 </table>
 			
@@ -54,13 +52,13 @@ The tongue is kept in the same position throughout the pronunciation of the clus
 Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing words with <b>t</b> as the first part of consonant cluster <b>tn</b>.
 
 <table><tr>
-<td align="center"><video src="/assets/mp4/tneetee.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/tneetee.gif"/><br/><span class="gloss">she or he is going to sleep</span></td>
+<td align="center"><video src="{{ site.vidpath }}tneetee.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/tneetee.gif"/><br/><span class="gloss">she or he is going to sleep</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/tnintsik.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/tnintsqiik.gif"/><br/><span class="gloss">it is bitter</span></td>
+<td align="center"><video src="{{ site.vidpath }}tnintsik.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/tnintsqiik.gif"/><br/><span class="gloss">it is bitter</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/tne1etqeh.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/tne1etqeh.gif"/><br/><span class="gloss">I don't like it</span></td>
+<td align="center"><video src="{{ site.vidpath }}tne1etqeh.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/tne1etqeh.gif"/><br/><span class="gloss">I don't like it</span></td>
 </tr>
 </table>
 <p>&nbsp;</p>

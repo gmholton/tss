@@ -1,9 +1,7 @@
 ---
 title:  SH Underscore
-layout: letter
 letter: sh_under
 display: <u>SH</u> (SH underscore)
-nav_exclude: true
 description: Letter <b><u>sh</u></b> starts out as Tanacross <b>sh</b> but ends with the vocal cords vibrating. This sound occurs only at the start of a syllable.<br />
 ---
 

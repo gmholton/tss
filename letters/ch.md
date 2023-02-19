@@ -1,9 +1,7 @@
 ---
 title:  CH
-layout: letter
 letter: ch
 display: CH
-nav_exclude: true
 description: Letter <b>ch</b> is pronounced as in English <b>'ch</b>ime'. This sound occurs only at the beginning of a syllable.	
 ---
 

@@ -1,9 +1,7 @@
 ---
 title:  GH
-layout: letter
 letter: gh
 display: GH
-nav_exclude: true
 description: "Letter <b>gh</b> is pronounced with the tongue in the same part of the mouth as for <b>g</b>, except that air is permitted to flow between the back of the tongue and the roof of the mouth, giving the sound a distinctive &quot;raspy&quot; quality. Although the <b>gh</b> sound does not occur in English, some learners find it similar to  English <b>r</b>."		
 ---
 

@@ -1,9 +1,7 @@
 ---
 title:  SH
-layout: letter
 letter: sh
 display: SH
-nav_exclude: true
 description: Letter <b>sh</b> is pronounced as in English <b>'sh</b>eep' and <b>'sh</b>ot'. In Tanacross this sound  never occurs at the end of a word.
 ---
 
@@ -34,13 +32,13 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b><u
 Letter <b>sh</b> frequently occurs at the start of word, forming a syllable all by itself. Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing words with <b>sh</b> as the first syllable.
 
 <table><tr>
-<td align="center"><video src="/assets/mp4/shke1yq.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/shke1yq.gif"/><br/><span class="gloss">my husband</span></td>
+<td align="center"><video src="{{ site.vidpath }}shke1yq.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/shke1yq.gif"/><br/><span class="gloss">my husband</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/shsh_ax.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/shsh_ax.gif"/><br/><span class="gloss">my house</span></td>
+<td align="center"><video src="{{ site.vidpath }}shsh_ax.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/shsh_ax.gif"/><br/><span class="gloss">my house</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/shnandi3idz.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/shnandi3idz.gif"/><br/><span class="gloss">behind me</span></td>
+<td align="center"><video src="{{ site.vidpath }}shnandi3idz.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/shnandi3idz.gif"/><br/><span class="gloss">behind me</span></td>
 </tr>
 </table>
 

@@ -1,9 +1,7 @@
 ---
 title:  X
-layout: letter
 letter: x
 display: X
-nav_exclude: true
 description: Letter <b>x</b> is pronounced with the tongue in the same part of the mouth as for <b>k</b>, except that air is permitted to flow between the back of the tongue and the roof of the mouth, giving the sound a distinctive &quot;raspy&quot; quality. While this sound does not occur in English, it is common to many other European languages, occurring for example as the last sound in German  'Bach' or Scottish 'loch'.
 ---
 
@@ -50,8 +48,8 @@ Click on the Tanacross sentences below to hear and see Mrs. Irene Arnold recitin
 			
 <table>
 <tr>
-<td align="center"><video controls src="/assets/mp4/x_h_sent1.mp4">Your browser does not support video.</video><br/><img src="/assets/gif/x_h_sent1.gif"/></td>
-<td align="center"><video controls src="/assets/mp4/x_h_sent2.mp4">Your browser does not support video.</video><br/><img src="/assets/gif/x_h_sent2.gif"/></td>
+<td align="center"><video controls src="{{ site.vidpath }}x_h_sent1.mp4">Your browser does not support video.</video><br/><img src="/assets/gif/x_h_sent1.gif"/></td>
+<td align="center"><video controls src="{{ site.vidpath }}x_h_sent2.mp4">Your browser does not support video.</video><br/><img src="/assets/gif/x_h_sent2.gif"/></td>
 </tr>
 </table>
 

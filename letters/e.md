@@ -1,9 +1,7 @@
 ---
 title:  e
-layout: letter
 letter: e 
 display: E 
-nav_exclude: true
 description: The short letter <b>e</b> is pronounced in several different ways. In some cases it has the same sound as long <b>ee</b>, only shorter in duration. However, in other cases short <b>e</b> has a different pronunciation, as demonstrated below. 
 ---
 

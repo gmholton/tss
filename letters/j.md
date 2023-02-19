@@ -1,9 +1,7 @@
 ---
 title:  J
-layout: letter
 letter: j
 display: J
-nav_exclude: true
 description: <p>Letter <b>j</b> is pronounced as in English <b>'j</b>ump' and <b>'j</b>am'. This sound occurs only at the start of a syllable.		</p>
 ---
 

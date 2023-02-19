@@ -1,9 +1,7 @@
 ---
 title:  TS
-layout: letter
 letter: ts
 display: TS
-nav_exclude: true
 description: Letter <b>ts</b> is pronounced as in English ra<b>ts</b> and ca<b>ts</b>. This is a voiceless sound (made without the vocal cords vibrating) and is a distinct sound from Tanacross <b>s</b>.
 ---
 

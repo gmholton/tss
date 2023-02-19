@@ -1,9 +1,7 @@
 ---
 title:  TH
-layout: letter
 letter: th
 display: TH
-nav_exclude: true
 description: Letter <b>th</b> is  pronounced as in English <b>'th</b>ick<b>' or 'th</b>in, and never as in English <b>'th</b>e' or '<b>th</b>is'.	It is  pronounced with the tip of the tongue between the teeth, permitting air to flow between the tongue and teeth. It is a voiceless sound (made without the vocal cords vibrating).
 ---
 

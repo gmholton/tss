@@ -1,9 +1,7 @@
 ---
 title:  TL
-layout: letter
 letter: tl
 display: TL
-nav_exclude: true
 description: The sound written with letter <b>tl</b> is a combination of the letters <b>t</b> and barred-l. Though this sound does not occur in English, it is similar to the <b>tl</b> sound in a quick pronunciation of English 'a<b>tl</b>as'. Note that this sound is pronounced as <b>tł</b> but is spelled <b>tl</b> for easier writing.
 ---
 
@@ -46,7 +44,7 @@ Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading 
 
 <table>
 <tr>									
-<td><video controls src="/assets/mp4/tl_sent.mp4" >Your browswer does not support video.</video></td><td><img src="/assets/gif/tl_tl_glot_sent.gif" border="0"/>
+<td><video controls src="{{ site.vidpath }}tl_sent.mp4" >Your browswer does not support video.</video></td><td><img src="/assets/gif/tl_tl_glot_sent.gif" border="0"/>
 </td>
 </tr>
 </table>

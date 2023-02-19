@@ -1,9 +1,7 @@
 ---
 title:  M
-layout: letter
 letter: m
 display: M
-nav_exclude: true
 description: Letter <b>m</b> is pronounced with both lips together and air flowing through the nose, much as in English. However, in Tanacross the pronunciation may vary between <b>m</b>, <b>mb</b>, and <b>b</b>, all of which are pronounced with both lips together. There is quite a bit of variation between speakers, so these examples should be taken as representative only. In Tanacross,  <b>m</b>  occurs only  at the start of a syllable, never at the end.	
 ---
 

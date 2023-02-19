@@ -1,9 +1,7 @@
 ---
 title:  N
-layout: letter
 letter: n
 display: N
-nav_exclude: true
 description: Letter <b>n</b> is pronounced with the tongue closing the roof of the mouth behind the teeth and air flowing through the nose, much as in English.
 ---
 
@@ -26,13 +24,13 @@ Unlike English, Tanacross letter <b>n</b> may occur at the start of a word, form
 
 
 <table><tr>
-<td align="center"><video src="/assets/mp4/nga1anq.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/nga1anq.gif"/><br/><span class="gloss">your arm</span></td>
+<td align="center"><video src="{{ site.vidpath }}nga1anq.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/nga1anq.gif"/><br/><span class="gloss">your arm</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/ntsqe1q.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ntsqe1q.gif"/><br/><span class="gloss">how</span></td>
+<td align="center"><video src="{{ site.vidpath }}ntsqe1q.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ntsqe1q.gif"/><br/><span class="gloss">how</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/ns_uu.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ns_uu.gif"/><br/><span class="gloss">she, he or it is good, well</span></td>
+<td align="center"><video src="{{ site.vidpath }}ns_uu.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ns_uu.gif"/><br/><span class="gloss">she, he or it is good, well</span></td>
 </tr>
 </table>
 

@@ -1,9 +1,7 @@
 ---
 title:  Th-underscore
-layout: letter
 letter: th_under
 display: <u>TH</u> (TH underscore)
-nav_exclude: true
 description: Letter <b><u>th</u></b> is a <span class="def"><a href="javascript:tech('semi-voiced');">semi-voiced</a></span> sound. It is pronounced as if it starts as Tanacross <b>th</b> and ends as <b>dh</b>. This sound  occurs only at the start of a syllable.
 ---
 

@@ -12,3 +12,5 @@ vendor/
 # mac
 .DS_Store
 
+# media
+assets/

@@ -1,9 +1,7 @@
 ---
 title:  X Underscore
-layout: letter
 letter: x-underscore (<u>x</u>) 
 display: <u>X</u> (X underscore)
-nav_exclude: true
 description: Tanacross letter <b><u>x</u></b> is a <span class="def">semi-voiced</span> sound. It is pronounced as if it starts as Tanacross <b>x</b> and ends as <b>gh</b>. This sound occurs only at the start of a syllable.
 ---
 

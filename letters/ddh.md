@@ -1,9 +1,7 @@
 ---
 title:  DDH
-layout: letter
 letter: ddh
 display: DDH
-nav_exclude: true
 description: <p>Letter <b>ddh</b> is pronounced slightly differently depending on whether the sound is at the start or end of a syllable. At the start of a syllable it is similar to <b>tth</b> except	 that it is not accompanied by a puff of air. At the end of a syllable, <b>ddh</b> is made with vocal cords vibrating.		</p>
 ---
 

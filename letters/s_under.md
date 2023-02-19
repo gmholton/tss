@@ -1,9 +1,7 @@
 ---
 title:  S Underscore
-layout: letter
 letter: s_under
 display: "<u>S</u> (S underscore)"
-nav_exclude: true
 description: Letter <b><u>s</u></b> can be thought of as a sound that begins as Tanacross <b>s</b> and ends as Tanacross <b>z</b>. This sound occurs only at the start of a syllable.
 ---
 

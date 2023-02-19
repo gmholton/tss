@@ -1,9 +1,7 @@
 ---
 title:  Y
-layout: letter
 letter: y
 display: Y
-nav_exclude: true
 description: Letter <b>y</b> is pronounced  as in English <b>'y</b>ou' or '<b>y</b>ard'. This sound is common at the end of syllables as well as the beginning. This is a voiced sound (made with the vocal cords vibrating) and is distinct from Tanacross <b>yh</b>, which is the voiceless counterpart of <b>y</b>.
 ---
 

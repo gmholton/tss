@@ -1,9 +1,7 @@
 ---
 title:  S
-layout: letter
 letter: s
 display: S
-nav_exclude: true
 description: <p>Letter <b>s</b> is pronounced as in English <b>'s</b>ee' or 'ki<b>ss'</b>, but never as in English 'i<b>s</b>'. It is a voiceless sound (made without the vocal cords vibrating). It should not be confused with the sound <b>ts</b>.		</p>
 ---
 
@@ -46,10 +44,10 @@ Click below to hear Mrs. Irene Solomon Arnold illustrating the difference betwee
 Letter <b>s</b> sometimes occurs at the start of word, forming a syllable all by itself.Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing words with <b>s</b> as the first syllable.
 
 <table><tr>
-<td align="center"><video src="/assets/mp4/ss_e1k.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ss_e1k.gif"/><br/><span class="gloss">my torso, upper body</span></td>
+<td align="center"><video src="{{ site.vidpath }}ss_e1k.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/ss_e1k.gif"/><br/><span class="gloss">my torso, upper body</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/stsuu.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/stsuu.gif"/><br/><span class="gloss">my grandmother</span></td>
+<td align="center"><video src="{{ site.vidpath }}stsuu.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/stsuu.gif"/><br/><span class="gloss">my grandmother</span></td>
 </tr>
 </table>
 

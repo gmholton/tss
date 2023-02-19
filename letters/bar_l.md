@@ -1,6 +1,5 @@
 ---
 title:  Barred l
-layout: letter
 letter: barl 
 display: Ł (barred-L) 
 description: "Letter <b>ł</b> is called <span class='def'>barred l</span> or <span class='def'>Indian l</span>, and is made with the tongue in the same place as the plain  l. Like plain l, air moves out of the mouth by going around the sides of the tongue. Unlike l, the sound <b>ł</b> is voiceless and is made with friction, so it sounds a bit rough."
@@ -49,13 +48,13 @@ Letter <b>ł</b> sometimes occurs at the beginning of a word, forming a syllable
 
 <table>
 <tr>
-<td align="center"><video src="/assets/mp4/Ldadi1ntaan.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldadi1ntaan.gif"/><br/><span class="gloss">door</span></td>
+<td align="center"><video src="{{ site.vidpath }}Ldadi1ntaan.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldadi1ntaan.gif"/><br/><span class="gloss">door</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/Ldi1ikeey.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldi1ikeey.gif"/><br/><span class="gloss">two</span></td>
+<td align="center"><video src="{{ site.vidpath }}Ldi1ikeey.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldi1ikeey.gif"/><br/><span class="gloss">two</span></td>
 </tr>
 <tr>
-<td align="center"><video src="/assets/mp4/Ldaa.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldaa.gif"/><br/><span class="gloss">peninsula</span></td>
+<td align="center"><video src="{{ site.vidpath }}Ldaa.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="/assets/gif/Ldaa.gif"/><br/><span class="gloss">peninsula</span></td>
 </tr>
 </table>
 
