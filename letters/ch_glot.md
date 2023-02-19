@@ -1,6 +1,7 @@
 ---
 title:  CH'
 letter: ch_glot
+tech: ejective
 display: "CH"
 description: Letter <b>ch'</b> is a <span class="def">glottalized</span> or <span class="def"><a href="javascript:tech('ejective');">ejective</a></span> sound. It it pronounced like <b>ch</b> except with the vocal folds tightly closed so that air is released with a sudden burst or popping sound. Tanacross <b>ch'</b> occurs only at the beginning of a syllable.
 ---

@@ -8,17 +8,17 @@ nav_order: 1
 
 
 {: .text-center }
-<img src="{{ site.baseurl }}/images/learn.png" width="540" height="85">
+<img src="{{ site.baseurl }}/assets/images/learn.png" width="540" height="85">
 <br/><i>a multimedia project for language learning</i>
 
 <table>
 <tbody align="center" valign="bottom">
 <tr align="center">
-<td><img src="{{ site.baseurl }}/images/irene.jpg" alt="Irene" width="130" height="166"><br>
+<td><img src="{{ site.baseurl }}/assets/images/irene.jpg" alt="Irene" width="130" height="166"><br>
 Irene Solomon-Arnold</td>
-<td><img src="{{ site.baseurl }}/images/laura.jpg" alt="Laura" width="127" height="164"><br>
+<td><img src="{{ site.baseurl }}/assets/images/laura.jpg" alt="Laura" width="127" height="164"><br>
 Laura Sanford</td>
-<td><img src="{{ site.baseurl }}/images/kenny.jpg" alt="Kenny" width="124" height="166"><br>
+<td><img src="{{ site.baseurl }}/assets/images/kenny.jpg" alt="Kenny" width="124" height="166"><br>
 Kenny Thomas, Sr.</td>
 </tr>
 </tbody>

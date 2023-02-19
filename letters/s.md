@@ -2,6 +2,7 @@
 title:  S
 letter: s
 display: S
+tech: s
 description: <p>Letter <b>s</b> is pronounced as in English <b>'s</b>ee' or 'ki<b>ss'</b>, but never as in English 'i<b>s</b>'. It is a voiceless sound (made without the vocal cords vibrating). It should not be confused with the sound <b>ts</b>.		</p>
 ---
 

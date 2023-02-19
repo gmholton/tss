@@ -22,6 +22,12 @@ Click on a Tanacross word to see and hear {{ page.speaker }} pronouncing words w
 
 {{ content }}
 
+
+{% if page.tech %}
+{% assign f = page.tech | append: "_tech.html" | prepend: "tech/" %}
+<p class="tech">{% include {{f}} %}</p>
+{% endif %}
+
 {% assign sim = site.data.similar | where: "letter", page.letter %}
 {% if sim.size > 0 %}
 	<p class="simlink">similar sounds</p>

@@ -1,6 +1,7 @@
 ---
 title:  SH Underscore
 letter: sh_under
+tech: semi-voiced
 display: <u>SH</u> (SH underscore)
 description: Letter <b><u>sh</u></b> starts out as Tanacross <b>sh</b> but ends with the vocal cords vibrating. This sound occurs only at the start of a syllable.<br />
 ---

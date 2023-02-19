@@ -14,6 +14,8 @@ gh_edit_link: false
 
 search_enabled: false
 
+# logo: /assets/images/caribou_banner.jpg
+
 callouts:
   warning:
     title: Warning
@@ -22,6 +24,9 @@ callouts:
     title: Note
     color: yellow
   info:
+    color: yellow
+  tech:
+    title: Technical Note
     color: yellow
     
 gifpath: /assets/gif/

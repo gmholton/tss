@@ -2,6 +2,7 @@
 title:  G
 letter: g
 display: G
+tech: k
 description: <p>Letter <b>g</b> is pronounced slightly differently, depending on whether it is at the start or end of a syllable. At the start of a syllable, <b>g</b> usually has a raspy quality similar to letter <b>x</b> or <b>gh </b>. At the end of a syllable <b>g</b> does not have a raspy quality but often is followed by a distinct 'uh' sound.
 ---
 

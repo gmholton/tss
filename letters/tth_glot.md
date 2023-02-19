@@ -1,6 +1,7 @@
 ---
 title:  TTH'
 letter: tth_glot
+tech: ejective
 display: "TTH'"
 description: Letter <b>tth'</b> is a <span class="def">glottalized</span> or <span class="def"><a href="javascript:tech('ejective');">ejective</a></span> sound. It it pronounced like <b>tth</b> except with the vocal folds tightly closed so that air is released with a sudden burst or popping sound. Tanacross <b>tth'</b> occurs only at the beginning of a syllable. Letters <b>tth</b> and <b>tth'</b> can be difficult for learners to distinguish from each other.
 ---

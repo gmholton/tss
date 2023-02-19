@@ -2,6 +2,7 @@
 title:  SH
 letter: sh
 display: SH
+tech: sh
 description: Letter <b>sh</b> is pronounced as in English <b>'sh</b>eep' and <b>'sh</b>ot'. In Tanacross this sound  never occurs at the end of a word.
 ---
 

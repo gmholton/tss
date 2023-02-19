@@ -1,6 +1,7 @@
 ---
 title:  K'
 letter: k_glot
+tech: ejective
 display: "K'"
 description: Letter <b>k'</b> is a <span class="def">glottalized</span> or <span class="def"><a href="javascript:tech('ejective');">ejective</a></span> sound. It it pronounced like <b>k</b> except with the vocal folds tightly closed so that air is released with a sudden burst or popping sound. Tanacross <b>k'</b> occurs only at the beginning of a syllable. Tanacross <b>k'</b>  does not have any of the raspy quality that is characteristic of Tanacross <b>k</b> at the beginning of a syllable.
 ---

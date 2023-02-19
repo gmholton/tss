@@ -1,6 +1,7 @@
 ---
 title:  Barred L underscore
 letter: l_under
+tech: semi-voiced
 display: "<u>Ł</u> (barred-L underscore)"
 description: Letter <b><u>&#322;</u></b>, referred to as <span class="def">barred l underscore</span>, is a sound that starts out like barred-l <b>&#322;</b>  but ends with the vocal folds vibrating, like plain <b>l</b>. Unlike plain <b>l</b>, friction continues even when the vocal folds are vibrating. This sound occurs only at the start of a syllable.
 ---

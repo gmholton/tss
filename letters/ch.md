@@ -2,13 +2,10 @@
 title:  CH
 letter: ch
 display: CH
+tech: ch
 description: Letter <b>ch</b> is pronounced as in English <b>'ch</b>ime'. This sound occurs only at the beginning of a syllable.	
 ---
 
-
-ch,video,chox,chox,"big"
-ch,video,chi1h,chi1h,"also"
-ch,video,dechenh,dechenh,"stick"
 
 
 Click below to hear Mrs. Laura Sanford illustrating the difference between <b>ch</b>, <b>ch'</b> and <b>j</b> at the start of syllables.
