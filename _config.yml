@@ -1,8 +1,40 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Sounds of Tanacross
+description: 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://gmholton.github.io/tss
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+back_to_top: true
+
+gh_edit_link: false 
+
+search_enabled: false
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow
+  info:
+    color: yellow
+    
+gifpath: /assets/gif/
+vidpath: /assets/mp4/
+audiopath: /assets/audio/
+
+defaults:
+  -
+    scope:
+      path: "letters" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "letter"
+      nav_exclude: true
+      speaker: "Mrs. Irene Arnold"
+    

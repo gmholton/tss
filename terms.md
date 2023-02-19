@@ -1,0 +1,25 @@
+---
+title: Terms of Use
+nav_order:
+layout: page
+nav_exclude: true
+---
+
+# Terms of Use
+
+The Sounds of Tanacross is copyrighted by the authors, the speakers whose voices are recorded, and the Alaska Native Language Center. 
+
+The Sounds of Tanacross is made available to the public under the following conditions. 
+
+"I agree to the following conditions on the use of Sounds of Tanacross resources: 
+
+
+
+* I will not use any text, audio, video or image resource in the Sounds of Tanacross for commercial purposes. 
+* I will respect the intellectual property rights and copyrights that pertain to the Sounds of Tanacross
+* I will not alter or modify any text, audio, video or image resource in the Sounds of Tanacross, without a legal authorization to do so, for example, fair use, or without prior explicit permission from the resource's creators. 
+* I will not create works derived from any resource in the Sounds of Tanacross, without a legal authorization to do so, for example, fair use, or without prior explicit permission from the resource's creators. 
+* I  will cite any reference to a resource contained in the Sounds of Tanacross that I make use of in any published work accordingly as : 
+
+> Holton, Gary &amp; Rick Thoman. 2008. *The Sounds of Tanacross*. Fairbanks: Alaska Native Language Center.
+

@@ -1,0 +1,32 @@
+---
+layout: default
+nav_exclude: true
+---
+
+<h1>{{ page.display }}</h1>
+
+{{ page.description }}
+<br/>
+
+Click on a Tanacross word to see and hear {{ page.speaker }} pronouncing words with <b>{{ page.display }}</b>.
+
+{% assign vid = site.data.samples | where: "letter", page.letter %}
+{% if vid.size > 0 %}
+<table>
+{% for row in vid %}
+<tr><td align="center"><video src="{{ row.media | prepend: site.vidpath | append: ".mp4" }}" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ row.text | prepend: site.gifpath | append: ".gif" }}"/><br/><span class="gloss">{{ row.gloss}}</span></td></tr>
+{% endfor %}
+</table>
+{% endif %}
+
+
+{{ content }}
+
+{% assign sim = site.data.similar | where: "letter", page.letter %}
+{% if sim.size > 0 %}
+	<p class="simlink">similar sounds</p>
+	<p class="simsounds">{% for row in sim %}
+		<a href="{{ row.similar | append: '.html' }}">{{ row.display }}</a>&nbsp;&nbsp;
+		{% endfor %}</p>
+{% endif %}
+	
