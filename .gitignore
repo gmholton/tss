@@ -13,4 +13,5 @@ vendor/
 .DS_Store
 
 # media
-assets/
+assets/mp4/
+assets/audio/
