@@ -24,5 +24,5 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>tth
 <img src="{{ site.baseurl }}/assets/gif//tth_ddh_fnl_cmp.gif" border="0">
 </center>
 
-{% include dental_sent.hmlt %}
+{% include dental_sent.html %}
 			

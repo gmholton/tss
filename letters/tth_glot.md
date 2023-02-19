@@ -16,5 +16,5 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>tt
 </center>
 
 
-{% include dental_sent.hmlt %}
+{% include dental_sent.html %}
 						

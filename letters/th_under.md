@@ -16,6 +16,6 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>th
 </center>
 
 
-{% include dental_sent.hmlt %}
+{% include dental_sent.html %}
 
 

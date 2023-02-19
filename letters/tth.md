@@ -43,5 +43,5 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>tth
 </center>
 
 
-{% include dental_sent.hmlt %}
+{% include dental_sent.html %}
 						

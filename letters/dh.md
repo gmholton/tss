@@ -14,4 +14,4 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>th<
 <img src="{{ site.baseurl }}/assets/gif//th_dh_comp.gif" border="0">
 </center>
 
-{% include dental_sent.hmlt %}			
+{% include dental_sent.html %}			
