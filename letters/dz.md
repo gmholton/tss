@@ -29,5 +29,5 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>ts<
 <img src="{{ site.baseurl }}/assets/gif/ts_dz_comp.gif" border="0">
 </center>
 
-<p><img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../alveolar_comp/sib1_sent/sib1_sent.html"> sentences contrasting <b>dz</b> and similar sounds</a><br /></p>
+{% include sib1_sent.html %}
 			

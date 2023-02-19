@@ -41,9 +41,7 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>th
 <img src="{{ site.baseurl }}/assets/gif//th_th_under_comp.gif" border="0">
 </center>
 
-<p>
-<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b>th</b> and similar sounds</a><br />
-</p>
+{% include dental_sent.hmlt %}
 
 
 						

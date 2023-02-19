@@ -24,8 +24,5 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>tth
 <img src="{{ site.baseurl }}/assets/gif//tth_ddh_fnl_cmp.gif" border="0">
 </center>
 
-<center>
-<p><img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b>ddh</b> and similar sounds</a><br /></p>
-</center>
-
+{% include dental_sent.hmlt %}
 			

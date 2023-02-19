@@ -19,6 +19,4 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b><u
 <img src="{{ site.baseurl }}/assets/gif/sh_sh_under2.gif" border="0"/>
 </center>
 
-<p>
-<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../alveolar_comp/sib2_sent/sib2_sent.html"> sentences contrasting <b><u>sh</u></b> and similar sounds</a><br />
-</p>
+{% include sib2_sent.html %}

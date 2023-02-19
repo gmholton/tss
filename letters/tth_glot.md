@@ -16,7 +16,5 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>tt
 </center>
 
 
-<p>
-<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../dental_comp/dental_sent/dental_sent.html"> sentences contrasting <b>tth'</b> and similar sounds</a><br />
-</p>
+{% include dental_sent.hmlt %}
 						

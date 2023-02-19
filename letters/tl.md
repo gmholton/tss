@@ -40,14 +40,7 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between **tl*
 
 
 
-Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading a sentence contrasting **tl** and **tl'**.
-
-<table>
-<tr>									
-<td><video controls src="{{ site.vidpath }}tl_sent.mp4" >Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_sent.gif" border="0"/>
-</td>
-</tr>
-</table>
+{% include tl_tl_glot_sent.html %}									
 
 
 						

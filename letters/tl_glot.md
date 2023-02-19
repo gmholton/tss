@@ -17,17 +17,4 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between **tl**
 <img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_cmp.gif"/>
 </center>
 			
-			
-Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing words with <b>tl'</b>.
-
-
-<table border="0" align="center" cellpadding="5" cellspacing="5">
-<tr>
-										
-<td><video src="{{ site.vidpath }}tl_sent.mp4" controls>Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_sent.gif" border="0"/>
-</td>
-<td width="64">&nbsp;</td>
-</tr>
-</table>
-<p>&nbsp;</p>
-						
+{% include tl_tl_glot_sent.html %}									

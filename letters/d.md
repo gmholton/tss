@@ -41,11 +41,7 @@ Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contras
 <img src="{{ site.baseurl }}/assets/gif/t_d_final_comp.gif" border="0">
 </center>
 
-
-Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading a sentence contrasting <b>t</b> and <b>d</b> and <b>t'</b> at the start of syllables.
-
-<center>
-<video src="{{ site.vidpath }}t-d-t-glot-sent.mp4" type="video/mp4" controls></video><br/><img src="{{ site.baseurl }}/assets/gif/t_d_t_glot_sent.gif"></center>
+{% include t_d_t_glot_sent.html %}
 
 
 		
