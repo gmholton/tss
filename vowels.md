@@ -28,15 +28,15 @@ These are indicated with small mark above the vowel. For more information, see t
 
 				
 <map name="Vowels">
-<area shape="rect" coords="76,9,108,54" href="/letters/i.html" alt="letter i">
-<area shape="rect" coords="110,9,139,54" href="/letters/ee.html" alt="letter ee">
-<area shape="rect" coords="141,9,170,54" href="/letters/e.html" alt="letter e">
-<area shape="rect" coords="172,9,201,54" href="/letters/a.html" alt="letter a">
-<area shape="rect" coords="203,9,232,54" href="/letters/o.html" alt="letter o">
-<area shape="rect" coords="234,9,264,54" href="/letters/u.html" alt="letter u">
-<area shape="rect" coords="76,57,107,103" href="/letters/i_nasal.html" alt="letter i nasal">
-<area shape="rect" coords="110,57,139,103" href="/letters/e_nasal.html" alt="letter ee nasal">
-<area shape="rect" coords="141,57,170,103" href="/letters/e_nasal.html" alt="letter e nasal">
-<area shape="rect" coords="172,57,201,103" href="/letters/a_nasal.html" alt="letter a nasal">
-<area shape="rect" coords="234,57,264,103" href="/letters/u_nasal.html" alt="letter u nasal">
+<area shape="rect" coords="76,9,108,54" href="{{ site.baseurl }}/letters/i.html" alt="letter i">
+<area shape="rect" coords="110,9,139,54" href="{{ site.baseurl }}/letters/ee.html" alt="letter ee">
+<area shape="rect" coords="141,9,170,54" href="{{ site.baseurl }}/letters/e.html" alt="letter e">
+<area shape="rect" coords="172,9,201,54" href="{{ site.baseurl }}/letters/a.html" alt="letter a">
+<area shape="rect" coords="203,9,232,54" href="{{ site.baseurl }}/letters/o.html" alt="letter o">
+<area shape="rect" coords="234,9,264,54" href="{{ site.baseurl }}/letters/u.html" alt="letter u">
+<area shape="rect" coords="76,57,107,103" href="{{ site.baseurl }}/letters/i_nasal.html" alt="letter i nasal">
+<area shape="rect" coords="110,57,139,103" href="{{ site.baseurl }}/letters/e_nasal.html" alt="letter ee nasal">
+<area shape="rect" coords="141,57,170,103" href="{{ site.baseurl }}/letters/e_nasal.html" alt="letter e nasal">
+<area shape="rect" coords="172,57,201,103" href="{{ site.baseurl }}/letters/a_nasal.html" alt="letter a nasal">
+<area shape="rect" coords="234,57,264,103" href="{{ site.baseurl }}/letters/u_nasal.html" alt="letter u nasal">
 </map>
