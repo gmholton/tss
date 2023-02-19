@@ -6,5 +6,5 @@ description: Letter <b>o</b> is pronounced as in English 'so' or 'wrote', and ne
 ---
 
 {: .warning}
-Note that Tanacross long <b>oo</b> is never pronounced as in English 'boot' or 'book'.) Unlike the other vowels, letter <b>o</b> does not have a nasal counterpart. 
+Note that Tanacross long <b>oo</b> is never pronounced as in English 'boot' or 'book'. Unlike the other vowels, letter <b>o</b> does not have a nasal counterpart. 
 

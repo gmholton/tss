@@ -31,53 +31,53 @@ These examples serve to illustrate the richness of the tone system in Tanacross.
 </tr>
 <tr>
 <td align="center"><h3>H HL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent1.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent1.gif"/><br/><span class="gloss">I see a robin.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent1.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent1.gif"/><br/><span class="gloss">I see a robin.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>LH HLL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent2.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent2.gif"/><br/><span class="gloss">What are you doing?</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent2.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent2.gif"/><br/><span class="gloss">What are you doing?</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>LL LL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent3.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent3.gif"/><br/><span class="gloss">The man is dancing.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent3.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent3.gif"/><br/><span class="gloss">The man is dancing.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>LLH</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent4.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent4.gif"/><br/><span class="gloss">He or she is eating.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent4.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent4.gif"/><br/><span class="gloss">He or she is eating.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>H L LF </h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent5.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent5.gif"/><br/><span class="gloss">It's meat that he or she is eating.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent5.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent5.gif"/><br/><span class="gloss">It's meat that he or she is eating.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>H HL LL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent6.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent6.gif"/><br/><span class="gloss">Who is beside you?</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent6.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent6.gif"/><br/><span class="gloss">Who is beside you?</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>LR HL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent7.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent7.gif"/><br/><span class="gloss">I see your sled.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent7.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent7.gif"/><br/><span class="gloss">I see your sled.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>LF LL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent8.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent8.gif"/><br/><span class="gloss">The child is playing.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent8.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent8.gif"/><br/><span class="gloss">The child is playing.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>H HX</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent9.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><h3><img src="/assets/gif/tones_sent9.gif"/><br/><span class="gloss">He or she isn't eating.</span></h3></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent9.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><h3><img src="{{ site.baseurl }}/gif/tones_sent9.gif"/><br/><span class="gloss">He or she isn't eating.</span></h3></td>
 </tr>
 <tr>
 <td align="center"><h3>L H H HF LHL</h3></td>
-<td align="center"><video src="/assets/mp4/tones_sent10.mp4" controls>Your browswer does not support video.</video></td>
-<td align="center"><img src="/assets/gif/tones_sent10.gif"/><br/><span class="gloss">The Indian potatoes (roots) are not so good.</span></td>
+<td align="center"><video src="{{ site.vidpath }}tones_sent10.mp4" controls>Your browswer does not support video.</video></td>
+<td align="center"><img src="{{ site.baseurl }}/gif/tones_sent10.gif"/><br/><span class="gloss">The Indian potatoes (roots) are not so good.</span></td>
 </tr>
 </table>
 			
