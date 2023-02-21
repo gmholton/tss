@@ -2,7 +2,7 @@
 title:  T
 letter: t
 display: T
-description: "Letter <b>t</b> is pronounced as in  English <b>'t</b>op'<b>. </b>This is a voiceless sound."
+description: "Letter <b>t</b> is pronounced as in  English '<b>t</b>op'. This is a voiceless sound."
 ---
 
 
@@ -15,35 +15,25 @@ Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contras
 
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_med_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_med_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/t_d_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/t_d_final_comp.gif" border="0">
-</center>
-
-
-Click on the Tanacross sentence below to hear and see Mrs. Irene Arnold reading a sentence contrasting <b>t</b> and <b>d</b> and <b>t'</b> at the start of syllables.
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/t_d_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/t_d_final_comp.gif" border="0"/></div>
+</div>
 
 
-			
-<table>
-<tr>
-<td align="center"><video src="{{ site.vidpath }}t-d-t-glot-sent.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/t_d_t_glot_sent.gif"/></td>
-</tr>
-</table>
-			
-			
-			
-<p>&nbsp;</p>
+{% include t_d_t_glot_sent.html %}
+	
+		
 
 Letter <b>t</b> sometimes occurs at the start of word as part of a <span class="def">consonant cluster</span> <b>tn</b>.
 
@@ -51,15 +41,30 @@ The tongue is kept in the same position throughout the pronunciation of the clus
 
 Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing words with <b>t</b> as the first part of consonant cluster <b>tn</b>.
 
-<table><tr>
-<td align="center"><video src="{{ site.vidpath }}tneetee.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/tneetee.gif"/><br/><span class="gloss">she or he is going to sleep</span></td>
-</tr>
-<tr>
-<td align="center"><video src="{{ site.vidpath }}tnintsik.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/tnintsqiik.gif"/><br/><span class="gloss">it is bitter</span></td>
-</tr>
-<tr>
-<td align="center"><video src="{{ site.vidpath }}tne1etqeh.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/tne1etqeh.gif"/><br/><span class="gloss">I don't like it</span></td>
-</tr>
-</table>
-<p>&nbsp;</p>
-						
+
+<div class="container">
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}tneetee.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Tnéetęę.</span>
+<span class="gloss">She/he is going to sleep.</span>
+</div></div>
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}tnintsik.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Tnints'iik.</span>
+<span class="gloss">It is bitter.</span>
+</div></div>
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}tne1etqeh.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Shaa tsį́ tnéet'eh.</span>
+<span class="gloss">I don't like it.</span>
+</div></div>
+</div>
+
+
+			

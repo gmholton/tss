@@ -26,20 +26,20 @@ The <b>d</b> sound is similar to other sounds in Tanacross. Below are examples t
 Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contrast between <b>t'</b>, <b>t</b>, and <b>d</b>.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d%20comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d%20comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_med_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/t_glot_t_d_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/t_glot_t_d_med_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/t_d_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/t_d_final_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/t_d_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/t_d_final_comp.gif" border="0"/></div>
+</div>
 
 {% include t_d_t_glot_sent.html %}
 

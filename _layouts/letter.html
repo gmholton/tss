@@ -3,22 +3,30 @@ layout: default
 nav_exclude: true
 ---
 
-<h1>{{ page.display }}</h1>
+<h1>Letter {{ page.display }}</h1>
+
+{% include letter_navigation.html %}
 
 {{ page.description }}
 <br/>
 
-Click on a Tanacross word to see and hear {{ page.speaker }} pronouncing words with <b>{{ page.display }}</b>.
+<br/>Click on a video below to see and hear {{ page.speaker }} pronouncing words with <b>{{ page.display }}</b>.
 
-{% assign vid = site.data.samples | where: "letter", page.letter %}
+{% comment %} video, tnc text and gloss now stored in csv {% endcomment %}
+{% assign vid = site.data.transposed | where: "letter", page.letter %}
 {% if vid.size > 0 %}
-<table>
+<div class="container">
 {% for row in vid %}
-<tr><td align="center"><video src="{{ row.media | prepend: site.vidpath | append: ".mp4" }}" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}{{ row.text | prepend: site.gifpath | append: ".gif" }}"/><br/><span class="gloss">{{ row.gloss}}</span></td></tr>
+<div class="videobox">
+<div class="video">
+<video src="{{ row.media | prepend: site.vidpath | append: ".mp4" }}" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">{{ row.tnc }}</span> 
+<span class="gloss">{{ row.gloss }}</span>
+</div></div>
 {% endfor %}
-</table>
+</div>
 {% endif %}
-
 
 {{ content }}
 
@@ -35,4 +43,8 @@ Click on a Tanacross word to see and hear {{ page.speaker }} pronouncing words w
 		<a href="{{ row.similar | append: '.html' }}">{{ row.display }}</a>&nbsp;&nbsp;
 		{% endfor %}</p>
 {% endif %}
+
+{% include letter_navigation.html %}
+
+
 	

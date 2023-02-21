@@ -12,10 +12,14 @@ The <b>th</b> sound is similar to other sounds in Tanacross. Below are examples 
 
 Click below to hear Mrs. Laura Sanford illustrating the difference between <b>tth</b> and <b>th</b>	 at the start of words.
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/tth_th_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif//tth_th_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/tth_th_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif//tth_th_comp.gif" border="0" />
+</div>
+</div>
 
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>tth</b> and <b>th</b> at the end of words.
 
@@ -28,18 +32,26 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>tth
 
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>th</b> and <b>&#322;</b> at the end of words.
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/th_L_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif//th_L_final_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/th_L_final_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif//th_L_final_comp.gif" border="0" />
+</div>
+</div>
 
 
 Click below to hear Mrs. Laura Sanford illustrating the difference between <b>th</b> and <b><u>th</u></b> at the start of syllables.
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/th_th_under_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif//th_th_under_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/th_th_under_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif//th_th_under_comp.gif" border="0" />
+</div>
+</div>
 
 {% include dental_sent.html %}
 

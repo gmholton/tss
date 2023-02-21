@@ -1,23 +1,30 @@
-{% assign vidpath = site.baseurl | append: "/assets/mp4/" %}
 <p><img src="{{site.baseurl}}/assets/images/question.png" style="float:left;margin-right:10px;width:25px;">
 Sentences with contrasting <span class="def">dental</span> sounds.</p>
 
-<center>
-<video controls src="{{vidpath}}/dent_sent1.mp4">Your browser does not support the video element.</video> 
-<p><span class="tnc">Ddheł k'et taa<u>th</u>éth déltthox naandeddh dídedháltth'ih. </span><br/>
-<span class="gloss">On the mountain you are all sitting in front of a brown tent.</span></p>
-</center>
+<div class="container">
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}/dental_sent1.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Ddheł k'et taa<u>th</u>éth déltthox naandeddh dídedháltth'ih. </span> 
+<span class="gloss">On the mountain you are all sitting in front of a brown tent.</span>
+</div></div>
 
-<center>
-<video controls src="{{vidpath}}/dent_sent1.mp4">Your browser does not support the video element.</video>
-<p><span class="tnc">Tthee<u>th</u>eł naadeddh dídzéltth'ih.</span><br/>
-<span class="gloss">We are sitting in front of the steambath.</span></p>
-</center>
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}/dental_sent2.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Tthee<u>th</u>eł naadeddh dídzéltth'ih.</span>
+<span class="gloss">We are sitting in front of the steambath.</span>
+</div></div>
 
-<center>
-<video controls src="{{vidpath}}/dent_sent1.mp4">Your browser does not support the video element.</video> 
-<p><span class="tnc">Dihthâad tah ntthûuy ts'eeyi<u>th</>et.</span><br/>
-<span class="gloss">Your (man's) grandchild woke up at Mansfield. </span></p>
-</center>
 
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}/dental_sent3.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Dihthâad tah ntthûuy ts'eeyi<u>th</u>et.</span> 
+<span class="gloss">Your (man's) grandchild woke up at Mansfield. </span>
+</div></div>
+</div>
 

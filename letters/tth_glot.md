@@ -10,10 +10,14 @@ description: Letter <b>tth'</b> is a <span class="def">glottalized</span> or <sp
 Click below to hear Mrs. Laura Sanford illustrating the difference between <b>tth'</b> and <b>tth</b> at the start of words.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/tth_glot_tth_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif//tth_glot_tth_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/tth_glot_tth_comp_ls.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif//tth_glot_tth_comp.gif" border="0" />
+</div>
+</div>
 
 
 {% include dental_sent.html %}

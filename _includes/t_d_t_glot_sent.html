@@ -1,10 +1,12 @@
-{% assign vidpath = site.baseurl | append: "/assets/mp4/" %}
 <p><img src="{{site.baseurl}}/assets/images/question.png" style="float:left;margin-right:10px;width:25px;">
 Sentence contrasting <b>t</b> and <b>d</b> and <b>t'</b> at the start of syllables.
 
-<center>
-<video controls src="{{site.baseurl}}/assets/mp4/t-d-t-glot-sent.mp4" control>Your browser does not support the video element.</video><br/>
+<div class="container">
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}t-d-t-glot-sent.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
 <span class="tnc">Téł delt'êl.</span>
 <span class="gloss">The socks are red.</span>
-<!-- ><img src="{{site.baseurl}}/assets/gif/t_d_t_glot_sent.gif"> -->
-</center>
+</div></div>
+</div>

@@ -12,32 +12,36 @@ Note  that when a word begins with a glottal stop the apostrophe is not written.
 
 It is important to distinguish between the presence and absence of glottal stop  at the end of words. Click below to hear Mrs.&nbsp;Irene Arnold and Mrs.&nbsp;Laura Sanford pronouncing words illustrating the contrast in words ending with and without glottal stop.			
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/vow_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/vow_glot_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/vow_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/vow_glot_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/h_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/h_glot_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/h_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/h_glot_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/n_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/n_glot_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/n_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/n_glot_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/l_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/l_glot_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/l_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/l_glot_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/aff_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/aff_glot_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/aff_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/aff_glot_comp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/stop_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/stop_glot_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/stop_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/stop_glot_comp.gif" border="0"/></div>
+</div>
+
+
+{: .note }
+Some prefer to use a curly symbol &rsquo; to represent the glottal stop, as seen in some of the image files on this sight. A standard apostrophe is much more practical and is used in the text on this site.

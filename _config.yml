@@ -2,7 +2,7 @@ title: TSS
 description: "Sounds of Tanacross"
 theme: just-the-docs
 
-url: http://www2.hawaii.edu/~holton/tss
+url: http://gmholton.github.io/tss
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -10,7 +10,9 @@ url: http://www2.hawaii.edu/~holton/tss
 
 back_to_top: true
 
-gh_edit_link: false 
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e, %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 search_enabled: false
 
@@ -30,13 +32,13 @@ callouts:
     color: yellow
     
 gifpath: /assets/gif/
-vidpath: http://www2.hawaii.edu/~holton/tss/assets/mp4/
+vidpath: http://www2.hawaii.edu/~holton/tss/assets/mp4/ # too large for github
 audiopath: /assets/audio/
 
 defaults:
   -
     scope:
-      path: "letters" # an empty string here means all files in the project
+      path: "letters" # 
       type: "pages"
     values:
       layout: "letter"

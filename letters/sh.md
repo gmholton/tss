@@ -32,16 +32,30 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b><u
 
 Letter <b>sh</b> frequently occurs at the start of word, forming a syllable all by itself. Click on a Tanacross word below to see and hear Mrs. Irene Arnold pronouncing words with <b>sh</b> as the first syllable.
 
-<table><tr>
-<td align="center"><video src="{{ site.vidpath }}shke1yq.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/shke1yq.gif"/><br/><span class="gloss">my husband</span></td>
-</tr>
-<tr>
-<td align="center"><video src="{{ site.vidpath }}shsh_ax.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/shsh_ax.gif"/><br/><span class="gloss">my house</span></td>
-</tr>
-<tr>
-<td align="center"><video src="{{ site.vidpath }}shnandi3idz.mp4" controls>Your browser does not support video.</video></td><td align="center"><img src="{{ site.baseurl }}/assets/gif/shnandi3idz.gif"/><br/><span class="gloss">behind me</span></td>
-</tr>
-</table>
+<!-- needs text -->
+<div class="container">
+<div class="videobox">
+<div class="video">
+<video src="{{ site.vidpath }}shke1yq.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/shke1yq.gif"/><br/>
+<span class="gloss">my husband</span>
+</div></div>
+<div class="videobox">
+<div class="video">
+<video src="{{ site.vidpath }}shsh_ax.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/shsh_ax.gif"/><br/>
+<span class="gloss">my house</span>
+</div></div>
+<div class="videobox">
+<div class="video">
+<video src="{{ site.vidpath }}shnandi3idz.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/shnandi3idz.gif"/><br/>
+<span class="gloss">behind me</span>
+</div></div>
+</div>
 
 {% include sib2_sent.html %}
 						

@@ -10,15 +10,15 @@ description: Letter <b>ts'</b> is a <span class="def">glottalized</span> or <spa
 Click below to hear Mrs. Irene Arnold pronouncing words illustrating the contrast between <b>ts</b> and <b>ts'</b>.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/ts_ts_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/ts_ts_glot_cmp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/ts_ts_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/ts_ts_glot_cmp.gif" border="0"/></div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/ts_ts_glot2_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-<img src="{{ site.baseurl }}/assets/gif/ts_ts_glot2_cmp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/ts_ts_glot2_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
+<div class="text"><img src="{{ site.baseurl }}/assets/gif/ts_ts_glot2_cmp.gif" border="0"/></div>
+</div>
 
 {% include sib1_sent.html %}
 

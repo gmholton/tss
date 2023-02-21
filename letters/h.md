@@ -2,6 +2,7 @@
 title:  H
 letter: h
 display: H
+tech: h
 description: Letter <b>h</b> is pronounced  as in English <b>'h</b>ead' and <b>'h</b>at'. Note though that, unlike English, <b>h</b> is a very common sound at the end of a syllable in Tanacross.<br/>
 ---
 
@@ -19,16 +20,5 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>x</
 </center>
 
 
-Click on the Tanacross sentences below to hear and see Mrs. Irene Arnold reading sentences contrasting <b>x</b> and <b>h</b>.
+{% include x_h_sent.html %}
 
-
-<table>
-<tr>
-<td><video controls src="{{ site.vidpath }}x_h_sent1.mp4">Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/x_h_sent1.gif" border="0"/></td>
-</tr>
-<tr>
-<td><video controls src="{{ site.vidpath }}x_h_sent2.mp4">Your browswer does not support video.</video></td><td><img src="{{ site.baseurl }}/assets/gif/x_h_sent2.gif" border="0"/></td>
-</tr>
-</table>
-
-						

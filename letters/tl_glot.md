@@ -12,9 +12,13 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between **tl**
 
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/tl_tl_glot_cmp.mp3" type="audio/mpeg">Your browser does not support audio</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_cmp.gif"/>
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/tl_tl_glot_cmp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/tl_tl_glot_cmp.gif" border="0" />
+</div>
+</div>
 			
 {% include tl_tl_glot_sent.html %}									

@@ -10,10 +10,14 @@ description: Letter <b>yh</b> is pronounced like Tanacross <b>y</b> except <b>yh
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>yh</b> and <b>y</b> at the end of syllables.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/yh_y_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif/yh_y_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/yh_y_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/yh_y_comp.gif" border="0" />
+</div>
+</div>
 
 
 {: .warning }

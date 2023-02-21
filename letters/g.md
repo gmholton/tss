@@ -24,8 +24,6 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>g</
 <img src="{{ site.baseurl }}/assets/gif/g_gh_comp.gif" border="0">
 </center>
 
-<p>
-<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../velar_comp/velar_sent/velar_sent.html"> sentences contrasting <b>g</b> and similar sounds</a><br />
-</p>
+{% include velar_sent.html %}
 
 			

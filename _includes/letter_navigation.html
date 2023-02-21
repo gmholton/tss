@@ -1,0 +1,11 @@
+{% assign nav = site.data.order[page.letter] %}
+{% if nav %}
+<div class="PageNavigation">	
+	{% if nav.prev %}
+	<a class="prev" href="{% link {{ nav.prev | prepend: "letters/" | append: ".md" }}  %}">&laquo; {{ site.data.order[nav.prev].name | prepend: "Letter " }}</a>
+	{% endif %}
+	{% if nav.next %}
+	<a class="next" href="{% link {{ nav.next | prepend: "letters/" | append: ".md" }}  %}">{{ site.data.order[nav.next].name | prepend: "Letter " }} &raquo; </a>
+	{% endif %}
+</div>
+{% endif %}

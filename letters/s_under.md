@@ -10,10 +10,14 @@ description: Letter <b><u>s</u></b> can be thought of as a sound that begins as 
 Click below to hear Mrs. Irene Solomon Arnold illustrating the difference between <br><b>s</b> and <b><u>s</u></b>.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/s_s_under_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif/s_s_under_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/s_s_under_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/s_s_under_comp.gif" border="0" />
+</div>
+</div>
 
 {% include sib1_sent.html %}
 

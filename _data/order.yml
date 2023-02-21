@@ -1,0 +1,245 @@
+d:
+  order: 1
+  name: D
+  prev: u_nasal
+  next: t
+t:
+  order: 2
+  name: T
+  prev: d
+  next: t_glot
+t_glot:
+  order: 3
+  name: "T'"
+  prev: t
+  next: dz
+dz:
+  order: 4
+  name: DZ
+  prev: t_glot
+  next: ts
+ts:
+  order: 5
+  name: TS
+  prev: dz
+  next: ts_glot
+ts_glot:
+  order: 6
+  name: "TS'"
+  prev: ts
+  next: ddh
+ddh:
+  order: 7
+  name: DDH
+  prev: ts_glot
+  next: tth
+tth:
+  order: 8
+  name: TTH
+  prev: ddh
+  next: tth_glot
+tth_glot:
+  order: 9
+  name: "TTH'"
+  prev: tth
+  next: dl
+dl:
+  order: 10
+  name: DL
+  prev: tth_glot
+  next: tl
+tl:
+  order: 11
+  name: TL
+  prev: dl
+  next: tl_glot
+tl_glot:
+  order: 12
+  name: "TL'"
+  prev: tl
+  next: j
+j:
+  order: 13
+  name: J
+  prev: tl_glot
+  next: ch
+ch:
+  order: 14
+  name: CH
+  prev: j
+  next: ch_glot
+ch_glot:
+  order: 15
+  name: "CH'"
+  prev: ch
+  next: g
+g:
+  order: 16
+  name: G
+  prev: ch_glot
+  next: k
+k:
+  order: 17
+  name: K
+  prev: g
+  next: k_glot
+k_glot:
+  order: 18
+  name: "K'"
+  prev: k
+  next: glot
+glot:
+  order: 19
+  name: "' (glottal stop)"
+  prev: k_glot
+  next: z
+z:
+  order: 20
+  name: Z
+  prev: glot
+  next: s_under
+s_under:
+  order: 21
+  name: "<u>S</u> (S-underscore)"
+  prev: z
+  next: s
+s:
+  order: 22
+  name: S
+  prev: s_under
+  next: dh
+dh:
+  order: 23
+  name: DH
+  prev: s
+  next: th_under
+th_under:
+  order: 24
+  name: "<u>TH</u> (TH-underscore)"
+  prev: dh
+  next: th
+th:
+  order: 25
+  name: TH
+  prev: th_under
+  next: l
+l:
+  order: 26
+  name: L
+  prev: th
+  next: l_under
+l_under:
+  order: 27
+  name: "<u>L</u> (L-underscore)"
+  prev: l
+  next: bar_l
+bar_l:
+  order: 28
+  name: barred-L
+  prev: l_under
+  next: sh_under
+sh_under:
+  order: 29
+  name: "<u>SH</u> (SH-underscore)"
+  prev: bar_l
+  next: sh
+sh:
+  order: 30
+  name: SH
+  prev: sh_under
+  next: gh
+gh:
+  order: 31
+  name: GH
+  prev: sh
+  next: x_under
+x_under:
+  order: 32
+  name: "<u>X</u> (X-underscore)"
+  prev: gh
+  next: x
+x:
+  order: 33
+  name: X
+  prev: x_under
+  next: h
+h:
+  order: 34
+  name: H
+  prev: x
+  next: m
+m:
+  order: 35
+  name: M
+  prev: h
+  next: n
+n:
+  order: 36
+  name: N
+  prev: m
+  next: nh
+nh:
+  order: 37
+  name: NH
+  prev: n
+  next: y
+y:
+  order: 38
+  name: Y
+  prev: nh
+  next: yh
+yh:
+  order: 39
+  name: YH
+  prev: y
+  next: a
+a:
+  order: 40
+  name: A
+  prev: yh
+  next: a_nasal
+a_nasal:
+  order: 41
+  name: A nasal
+  prev: a
+  next: e
+e:
+  order: 42
+  name: E
+  prev: a_nasal
+  next: ee
+ee:
+  order: 43
+  name: EE
+  prev: e
+  next: e_nasal
+e_nasal:
+  order: 44
+  name: E nasal
+  prev: ee
+  next: i
+i:
+  order: 45
+  name: I
+  prev: e_nasal
+  next: i_nasal
+i_nasal:
+  order: 46
+  name: I nasal
+  prev: i
+  next: o
+o:
+  order: 47
+  name: O
+  prev: i_nasal
+  next: u
+u:
+  order: 48
+  name: U
+  prev: o
+  next: u_nasal
+u_nasal:
+  order: 49
+  name: U nasal
+  prev: u
+  next: d

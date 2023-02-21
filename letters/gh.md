@@ -13,7 +13,4 @@ Click below to hear Mrs. Irene Arnold illustrating the difference between <b>x</
 <p><img src="{{ site.baseurl }}/assets/gif/x_x_under_comp.gif" border="0"></p>	<br />
 </center>
 
-<p>
-<img src="{{ site.baseurl }}/assets/images/question.png" width="34" height="34" hspace="5" align="absmiddle"> <a href="../velar_comp/velar_sent/velar_sent.html"> sentences contrasting <b>gh</b> and similar sounds</a>
-</p>
-						
+{% include velar_sent.html %}

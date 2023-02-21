@@ -1,21 +1,26 @@
-{% assign vidpath = site.baseurl | append: "/assets/mp4/" %}
 <p><img src="{{site.baseurl}}/assets/images/question.png" style="float:left;margin-right:10px;width:25px;">
 Sentences with contrasting <span class="def">sibilant</span> (S-like) sounds.</p>
 
-<center>
-<video controls src="{{vidpath}}/sib1_sent1.mp4">Your browser does not support the video element.</video> 
-<p><span class="tnc">Stsêey ts'eyh <u>s</u>úu éhtsįį.</span><br/>
-<span class="gloss">My grandfather made a nice canoe.</span></p>
-</center>
+<div class="container">
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}/sib1_sent1.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Stsêey ts'eyh <u>s</u>úu éhtsįį.</span> 
+<span class="gloss">My grandfather made a nice canoe.</span>
+</div></div>
 
 <center>
-<video controls src="{{vidpath}}/sib1_sent1.mp4">Your browser does not support the video element.</video>
+<video controls src="{{site.vidpath}}/sib1_sent2.mp4">Your browser does not support the video element.</video>
 <p><span class="tnc">Súus éł jîiz éł ts'ôgh tah ts'į́ xétsax.</span><br/>
 <span class="gloss">The robin and the jay in the tree are crying.</span></p>
 </center>
 
-<center>
-<video controls src="{{vidpath}}/sib1_sent1.mp4">Your browser does not support the video element.</video> 
-<p><span class="tnc">Êy ts'éhxeh <u>s</u>eey tsêdl dat-<u>s</u>ęy sínt'eh.</span><br/>
-<span class="gloss">That is that woman's black pocket knife.</span></p>
-</center>
+<div class="videobox">
+<div class="video">
+<video src="{{site.vidpath}}/sib1_sent3.mp4" controls onclick="play(event)">Your browser does not support video.</video></div>
+<div class="text">
+<span class="tnc">Êy ts'éhxeh <u>s</u>eey tsêdl dat-<u>s</u>ęy sínt'eh.</span> 
+<span class="gloss">That is that woman's black pocket knife.</span>
+</div></div>
+</div>

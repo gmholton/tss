@@ -2,6 +2,7 @@
 title:  o
 letter: o
 display: "O, OO"
+tech: o
 description: Letter <b>o</b> is pronounced as in English 'so' or 'wrote', and never as in English 'hot'. Tanacross<b> o</b> and <b>oo</b> have the same sound, but <b>oo</b> is pronounced for a longer time than <b>o</b>.
 ---
 

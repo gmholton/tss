@@ -10,13 +10,15 @@
 	margin-top: 0px;
 }
 
-.tnc {font-weight: bold;}
+.tnc {font-weight: bold; font-size: normal;}
 
-.gloss {font-style: italic; font-size: large;}
+.gloss {font-style: italic; font-size: normal;}
 
 video {
 	width: 300px;
 	height: 200px;
+	border-radius: 10px;
+	margin: 10px;
 }
 
 .def
@@ -28,8 +30,138 @@ video {
 .fineprint {
 	font-size: small;
 	margin-right: 10px;
+	color: darkgrey;
+	display: block;
+	align: baseline;
 }
 
 p.tech-title {
 	font-weight: bold;
 }
+
+
+// video 
+
+.container { // container to hold a bunch of videos
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.container .videobox { // container to hold video with text below
+  display: block;
+  width: 300px;	
+}
+.container .video {
+	width: 300px;
+	height: 200px;
+}
+.container .text {
+	margin-top:10px;
+	text-align:center;
+	font-size: large;
+}
+
+
+// audio side-by-side
+
+.audiobox {
+	//display: block;
+	text-align: center;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.audiobox .audio {
+	display: inline-block;
+}
+.audiobox .text {
+	display: inline-block;
+	margin-left: 10px;
+	font-size: large;
+}
+
+// examples
+.example {
+	display: block;
+	text-align:center;
+}
+
+
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+
+/*
+.container {
+    position: relative;
+    display: flex;
+    width: max-content;
+    height: max-content;
+    justify-content: center;
+    align-items: center;
+}
+.container #video {
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
+.container .controls {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    opacity: 0.2;
+    transition: opacity 0.4s;
+}
+.container:hover .controls {
+    opacity: 1;
+}
+.container .controls button {
+    background: transparent;
+    color: #fff;
+    font-weight: bolder;
+    text-shadow: 2px 1px 2px #000;
+    border: none;
+    cursor: pointer;
+}
+.container .controls .timeline {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-right: 3px solid #ccc;
+    border-left: 3px solid #ccc;
+}
+.container .controls .timeline .bar{
+    background: rgb(1, 1, 65);
+    height: 4px;
+    flex: 1;
+}
+.container .controls .timeline .bar .inner{
+    background: #ccc;
+    width: 0%;
+    height: 100%;
+}
+.fa {
+    font-size: 20px !important;
+}
+
+*/

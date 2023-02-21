@@ -15,43 +15,55 @@ Click below to hear Mrs. Laura Sanford illustrating the difference between <b>k<
 <b>x</b> at the start of syllables.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/k_x_comps_LS.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/><br/>
-<img src="{{ site.baseurl }}/assets/gif/k_x_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/k_x_comps_LS.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/k_x_comp.gif" border="0" />
+</div>
+</div>
 
 
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>x</b>, <b><u>x</u></b> and <b>gh</b> at the start of syllables.
 
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/x_x_under.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></br><br/>
-<img src="{{ site.baseurl }}/assets/gif/x_x_under_comp.gif" border="0">
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/x_x_under.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/x_x_under_comp.gif" border="0" />
+</div>
+</div>
 
 {: .warning }
 The <b>x</b> sound should not be confused with <b>h</b>. 
 
 Click below to hear Mrs. Irene Arnold illustrating the difference between <b>x</b> and <b>h</b> at the start of syllables.
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/x_h_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif/x_h_comp.gif" border="0"/>
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/x_h_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/x_h_comp.gif" border="0" />
+</div>
+</div>
 
-<center>
-<audio controls src="{{ site.baseurl }}/assets/audio/x_h_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio><br/>
-<img src="{{ site.baseurl }}/assets/gif/x_h_med_comp.gif" border="0"/>
-</center>
+<div class="audiobox">
+<div class="audio">
+<audio controls src="{{ site.baseurl }}/assets/audio/x_h_med_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</div>
+<div class="text">
+<img src="{{ site.baseurl }}/assets/gif/x_h_med_comp.gif" border="0" />
+</div>
+</div>
 
-Click on the Tanacross sentences below to hear and see Mrs. Irene Arnold reciting sentences contrasting <b>x</b> and <b>h</b>.
-			
-<table>
-<tr>
-<td align="center"><video controls src="{{ site.vidpath }}x_h_sent1.mp4">Your browser does not support video.</video><br/><img src="{{ site.baseurl }}/assets/gif/x_h_sent1.gif"/></td>
-<td align="center"><video controls src="{{ site.vidpath }}x_h_sent2.mp4">Your browser does not support video.</video><br/><img src="{{ site.baseurl }}/assets/gif/x_h_sent2.gif"/></td>
-</tr>
-</table>
+{% include x_h_sent.html %}
+
+{% include velar_sent.html %}
+
 
 {% comment %}
 <!--
