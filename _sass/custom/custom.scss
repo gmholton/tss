@@ -10,7 +10,9 @@
 	margin-top: 0px;
 }
 
-.tnc {font-weight: bold; font-size: normal;}
+.tnc {font-weight: bold; 
+	font-size: normal;
+	}
 
 .gloss {font-style: italic; font-size: normal;}
 
@@ -24,7 +26,12 @@ video {
 .def
 {
 	font-variant: small-caps;
-	color: brown;
+	font-size: normal;
+	//color: brown;
+	background-color: $grey-lt-000; //$code-background-color;
+	padding: 0.1em 0.2em;
+    font-weight: 400;
+    border-radius: 2px; //$border-radius;
 }
 
 .fineprint {
