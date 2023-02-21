@@ -22,37 +22,14 @@ faux = open(url,'tnc_tech','height=400,width=600,scrollbars=1');
 
 # Consonants
 	
-The consonants are organized below according to the place of production in the mouth and their manner of production. Sounds on the left are produced toward the front of the mouth; sounds toward the right are produced further back in them mouth. For more information about the meanings of these terms see the [Technical Notes].
+The chart below shows all of the <span class="def">consonant</span> sounds of Tanacross. The [vowels]({% link vowels.md %}) are shown on a separate chart. 
 
 Click on a letter below to learn more about that sound.
 		  
 <img src="{{site.baseurl}}/assets/images/c_chart.gif" border="0" usemap="#Consonants"  width="555"/>
 
 
-
-{: .info }
-> **Place and Manner**
-> 
-> Consonants are produced with an obstruction to the airflow. Consonants can be classified according to the place and manner of this obstruction. 
-> 
-> Terms referring to place
-> 
-> * labial -- with the lips
-> * alveolar -- with the tongue on the ridge behind the fronth teeth; note that the affricate sounds begin at the alveolar place and the transition to another place
-> * dental -- with the tongue teeth behind the upper teeth or between the teeth
-> * lateral -- with the the tongue pressed against the ridge behind the teeth, but allowing air to flow around the sides of the tongue
-> * palatal -- with the tongue against the roof of the mouth
-> * velar -- with the back of the tongue pressed toward the back of mouth
-> * glottal -- at the glottis, or vocal folds 
-> 
-> Terms referring to manner
-> 
-> * stop -- completely obstructing the airflow
-> * affricate -- a combination of a stop with a fricative
-> * fricative -- allowing air to flow roughly, with much friction noise
-> * sonorants -- allowing air to flow most freely, almost like a vowel
-> * voiced -- with the vocal folds vibrating
-> * voiceless -- without the vocal folds vibrating
+The consonant chart is organized along the two dimensions of place and manner of articulation. Place of articulation refers to where in the mouth the obstruction of air occurs.  Sounds on the left of the chart are produced toward the front of the mouth; sounds toward the right are produced further back in them mouth. Manner of articulation refers to how much the airflow is obstructed. Sounds toward the top of the chart have more obstruction, while those toward the bottom of the chart have less airflow obstruction. See the [Technical Notes]({% link tech.md %}) for more information.
 
 
 
