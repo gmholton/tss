@@ -2,6 +2,7 @@
 title:  TTH
 letter: tth
 display: TTH
+tech: tth
 description: 'The sound written <b>tth</b> is found in a few words in English: it is the last sound in careful pronunciation of "eighth", as if it were spelled eight-th. This sound should not be confused with <b>th</b>.'	
 ---
 

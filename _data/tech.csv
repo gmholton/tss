@@ -1,0 +1,26 @@
+tech,description
+cons_tech.html,Place and Manner of Articulation
+d_tech.html,Alveolar Stops
+ts_tech.html,Alveolar Affricates
+tth_tech.html,Alveo-Dental Affricates
+tl_tech.html,Lateral Affricates
+ch_tech.html,Palatal Affricates
+k_tech.html,Velar Stop
+ejective_tech.html,Ejectives
+glot_tech.html,Glottal Stop
+s_tech.html,Alveolar Fricatives
+sh_tech.html,Palatal Fricatives
+th_tech.html,Dental Fricatives
+x_tech.html,Velar Fricatives
+l_tech.html,Lateral Fricatives
+h_tech.html,Glottal Fricative
+semi-voiced_tech.html,Semi-Voiced Fricatives
+m_tech.html,Bilabial Nasal
+n_tech.html,Alveolar Nasals
+y_tech.html,Palatal Approximants
+a_tech.html,Low Back Vowel
+e_tech.html,Mid Front Vowels
+i_tech.html,High Front Vowel
+o_tech.html,Mid Back Vowel
+u_tech.html,High Back Vowel
+nasal_tech.html,Nasal Vowels

@@ -2,6 +2,7 @@
 title:  NH
 letter: nh
 display: NH
+tech: n
 description: Letter <b>nh</b>, known as &quot;voiceless n&quot;, is pronounced with the tongue in the same place as for letter <b>n</b> except that the vocal cords are not vibrating. Like <b>n</b>, air flows out through the nose rather than the mouth. This sound occurs only at the end of a syllable.
 ---
 

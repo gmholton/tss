@@ -2,6 +2,7 @@
 title:  N
 letter: n
 display: N
+tech: n
 description: Letter <b>n</b> is pronounced with the tongue closing the roof of the mouth behind the teeth and air flowing through the nose, much as in English.
 ---
 

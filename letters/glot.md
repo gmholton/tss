@@ -2,6 +2,7 @@
 title:  Glottal Stop
 letter: glot
 display: "' (glottal stop)" 
+tech: glot
 description: The <span class="def">glottal stop</span> is wrtten with an apostrphe ( <b>&#8217; )</b>. It is a distinct sound from the ejective sound which is also written with an apostrophe. It is pronounced as a slight "catch in the breath". It is called a "glottal stop" because the vocal cords are held tightly together, stopping air from moving from the lungs and into the mouth.  This is the same sound which occurs in the middle of the English expression 'uh-oh' (although it is not written with an apostrophe in English).	
 ---
 
@@ -41,7 +42,3 @@ It is important to distinguish between the presence and absence of glottal stop 
 <div class="audio"><audio controls src="{{ site.baseurl }}/assets/audio/stop_glot_comp.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></div>
 <div class="text"><img src="{{ site.baseurl }}/assets/gif/stop_glot_comp.gif" border="0"/></div>
 </div>
-
-
-{: .note }
-Some prefer to use a curly symbol &rsquo; to represent the glottal stop, as seen in some of the image files on this sight. A standard apostrophe is much more practical and is used in the text on this site.
