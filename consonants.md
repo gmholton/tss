@@ -26,7 +26,7 @@ The chart below shows all of the <span class="def">consonant</span> sounds of Ta
 
 Click on a letter below to learn more about that sound.
 		  
-<img src="{{site.baseurl}}/assets/images/c_chart.gif" border="0" usemap="#Consonants"  width="555"/>
+<img src="{{ site.baseurl }}/assets/images/c_chart.gif" border="0" usemap="#Consonants"  width="555"/>
 
 
 The consonant chart is organized along the two dimensions of place and manner of articulation. Place of articulation refers to where in the mouth the obstruction of air occurs.  Sounds on the left of the chart are produced toward the front of the mouth; sounds toward the right are produced further back in them mouth. Manner of articulation refers to how much the airflow is obstructed. Sounds toward the top of the chart have more obstruction, while those toward the bottom of the chart have less airflow obstruction. See the [Technical Notes]({% link tech.md %}) for more information.
